@@ -1,0 +1,20 @@
+// Quasar variables (https://quasar.dev/style/sass-scss-variables)
+$primary: #438dd3;
+$secondary: #26a69a;
+$accent: #d3302f;
+$dark: #263237;
+$dark-page: #1c2646;
+$positive: #21ba45;
+$negative: #c10015;
+$info: #31ccec;
+$warning: #f2c037;
+
+.body--dark {
+  --q-primary: #6558f5;
+  --q-secondary: #26a69a;
+  --q-accent: #9c27b0;
+  --q-positive: #21ba45;
+  --q-negative: #c10015;
+  --q-info: #31ccec;
+  --q-warning: #f2c037;
+}
